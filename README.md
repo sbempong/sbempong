@@ -55,8 +55,8 @@ I'm an aspiring **Data Scientist** with a strong passion for **Artificial Intell
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bempong-Sylvester-Obese&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bempong-Sylvester-Obese&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sbempong&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbempong&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -81,6 +81,6 @@ I'm an aspiring **Data Scientist** with a strong passion for **Artificial Intell
 </details>
 
 <!---
-Bempong-Sylvester-Obese/Bempong-Sylvester-Obese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sbempong/sbempong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
